@@ -1,5 +1,5 @@
 ## README
-OPL3LPT circuit board for PC9821note series
+OPN3LPT circuit board for PC9821note series
 acting as a YMF288 FM synthesizer on LPT
 
 **SCH and PCB editor:**  Easyeda (lceda.cn)
