@@ -6,7 +6,7 @@ acting as a YMF288 FM synthesizer on LPT
 How to use：
 At editor, Click the document icon on the topbar, via "Document" > "Open" > "EasyEDA Source", and select json file, then open it at the editor.
 
-**support PCs:** PC-9821ne2 and later(*36p LPT port required*)
+**support PCs:** PC-9821ne2 and later(*HPCN36p LPT port required*)
 
 tested OK with PC-9821nw150,PC-9821nr12,PC-9821ne3
 
